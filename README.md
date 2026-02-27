@@ -8,16 +8,6 @@ An interactive Power BI dashboard analyzing the socio-economic landscape of Viet
 
 <img width="1112" height="610" alt="Dashboard" src="https://github.com/user-attachments/assets/30c85f95-bb97-4592-aa8e-caea61e16af7" />
 
-## 📁 Project Structure
-
-vietnam-economic-dashboard/
-│
-├── Dashboard_Kinh_te_VN_sau_sap_nhap.pbix   # Power BI dashboard file
-├── Danh_sach_34_tinh_thanh_theo_Map.xlsx     # Province mapping data
-├── Dashboard.png                              # Dashboard screenshot
-└── README.md
-```
-
 
 ## 🎯 Objective
 
